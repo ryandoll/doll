@@ -1,2 +1,2 @@
-# doll
-Base set of tools for any node project.
+# About
+Base set of tools for any node project. More to come...

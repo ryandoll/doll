@@ -1,0 +1,19 @@
+{
+  "name": "doll",
+  "version": "2.0.2",
+  "description": "Base set of tools for any node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandoll/doll.git"
+  },
+  "author": "Ryan Doll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryandoll/doll/issues"
+  },
+  "homepage": "https://github.com/ryandoll/doll#readme"
+}

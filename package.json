@@ -1,6 +1,6 @@
 {
   "name": "doll",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Base set of tools for any node project.",
   "main": "index.js",
   "scripts": {
